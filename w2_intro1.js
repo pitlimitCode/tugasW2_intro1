@@ -1,52 +1,5 @@
 // 1.	Buat variabel dengan nama biodata bertipe data object, dimana value dan tipe data-nya sudah ditentukan.
-const biodata = {
-  "name": "Kristiadi Prabowo",
-  "age": 25,
-  "hobbies": [
-      "Mendengarkan musik",
-      "Menonton film",
-      "Bermain video gim",
-  ],
-  "IsMaried": false,
-  "schoolList": [
-      {
-        "name": "SD Hati Kududs Rajawali Makassar",
-        "yearIn": 2002,
-        "yearOut": 2008,
-        "major": null,
-      },
-      {
-        "name": "SMP Frather Thamrin Makassar",
-        "yearIn": 2008,
-        "yearOut": 2011,
-        "major": null,
-      },
-      {
-        "name": "SMA Negeri 21 Makassar",
-        "yearIn": 2011,
-        "yearOut": 2014,
-        "major": "IPA",
-      },
-      {
-        "name": "Institut Teknologi Nasional Yogyakarta",
-        "yearIn": 2014,
-        "yearOut": 2019,
-        "major": "S1 Teknik Pertambangan",
-      },
-    ],
-  "skills": [
-      {
-        "skillName": "Ruby on rails",
-        "level": "Beginner",
-      },
-      {
-        "skillName": "javascript",
-        "level": "beginner",
-      },
-    ],
-  "interestInCoding": true,
-} 
-// console.log(biodata.schoolList[2].major);
+// !Privasi
 
 
 // 2.	
